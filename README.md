@@ -17,7 +17,10 @@ The second group will staff two tents. One tent will provide free beverages, cof
 
 ORI plans to provide box lunches to all members of the team who participate. In addition, ORI will be responsible for providing all necessary supplies to conduct the trail clean up. The CEO has stated he is willing to fund this project if it is approved without reservations. Magic Mountain required all ORI employees attending to sign a waiver stating ORI was not responsible for all risks and potential injuries.
 
-# Objectives
+# Hands-on Lab: Perform SWOT Analysis
+
+Objectives
+
 List strengths to identify internal factors that you can control that may lead to opportunities
 
 List weaknesses to identify internal factors that you can control that may lead to threats
