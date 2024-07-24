@@ -19,6 +19,9 @@ ORI plans to provide box lunches to all members of the team who participate. In 
 
 # Objectives
 List strengths to identify internal factors that you can control that may lead to opportunities
+
 List weaknesses to identify internal factors that you can control that may lead to threats
+
 List opportunities result to positive events that may occur due to strengths
+
 List threats result to negative events that may occur due to weaknesses
