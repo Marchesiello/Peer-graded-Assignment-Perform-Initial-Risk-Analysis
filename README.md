@@ -1,6 +1,7 @@
 # Peer-graded-Assignment-Perform-Initial-Risk-Analysis
 Final Project Scenario: Outdoor Recreation Inc. (ORI)
-# Outdoor Recreation Inc. (ORI) is a high-end producer and retailer of outdoor recreational supplies. They produce a variety of products to include camping supplies, outdoor bikes, clothing, and more. ORI is located in the west coast of the United States and have retail outlets in a five-state area. In all they have over 60 stores. The CEO is a firm believer in giving back to the community as often as possible when they can. The majority of employees are located in their headquarters location.
+
+Outdoor Recreation Inc. (ORI) is a high-end producer and retailer of outdoor recreational supplies. They produce a variety of products to include camping supplies, outdoor bikes, clothing, and more. ORI is located in the west coast of the United States and have retail outlets in a five-state area. In all they have over 60 stores. The CEO is a firm believer in giving back to the community as often as possible when they can. The majority of employees are located in their headquarters location.
 
 ORI recently hired ten new employees to supplement their team where they are headquartered in Seattle, Washington. The CEO wants to find a way to integrate these new employees into the team in a way that is productive for both the company and community.
 
