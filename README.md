@@ -28,3 +28,15 @@ List weaknesses to identify internal factors that you can control that may lead 
 List opportunities result to positive events that may occur due to strengths
 
 List threats result to negative events that may occur due to weaknesses
+
+# Hands-on Lab: Develop a Risk Register
+
+Objectives
+
+Develop a risk register
+
+# Hands-on Lab: Create a Risk Matrix
+
+Objective
+
+Create a risk matrix
